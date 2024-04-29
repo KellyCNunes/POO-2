@@ -12,11 +12,19 @@ namespace heranca
         protected string nome;
         protected double preco;
 
+        public Produto ()
+        {    }
+
         public Produto(int codigo, string nome, double preco)
         {
             Codigo = codigo;
             Nome = nome;
             Preco = preco;
+        }
+
+        public void Mostrar()
+        {
+            Console.WriteLine("Codigo: " + Codigo + "\tNome: " +  Nome + "\tPreco: " + Preco);
         }
 
         public int Codigo
