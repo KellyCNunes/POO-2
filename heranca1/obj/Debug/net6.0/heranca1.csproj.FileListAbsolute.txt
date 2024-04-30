@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\bin\Debug\net6.0\heranca1.exe
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\bin\Debug\net6.0\heranca1.deps.json
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\bin\Debug\net6.0\heranca1.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\bin\Debug\net6.0\heranca1.dll
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\bin\Debug\net6.0\heranca1.pdb
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\obj\Debug\net6.0\heranca1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\obj\Debug\net6.0\heranca1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\obj\Debug\net6.0\heranca1.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\obj\Debug\net6.0\heranca1.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\obj\Debug\net6.0\heranca1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\obj\Debug\net6.0\heranca1.dll
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\obj\Debug\net6.0\refint\heranca1.dll
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\obj\Debug\net6.0\heranca1.pdb
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\obj\Debug\net6.0\heranca1.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\heranca\heranca1\obj\Debug\net6.0\ref\heranca1.dll
