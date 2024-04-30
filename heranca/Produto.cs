@@ -22,7 +22,7 @@ namespace heranca
             Preco = preco;
         }
 
-        public void Mostrar()
+        public virtual void Mostrar()
         {
             Console.WriteLine("Codigo: " + Codigo + "\tNome: " +  Nome + "\tPreco: " + Preco);
         }

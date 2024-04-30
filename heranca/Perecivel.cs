@@ -24,7 +24,7 @@ namespace heranca
 
         //classe base= super classe= classe pai = classe mae
         //classe filho = classe derivada = subclasse
-        public void Mostrar()
+        public override void Mostrar()
         {
             base.Mostrar(); //base()-- chama construtor da classe base, agora base. ---- chama método da classe base (base.Metodo();)
             Console.WriteLine("Data de Fabricação: " + DataFabricacao + "\tData Validade: " +  DataValidade + "\tLote: " + Lote);
