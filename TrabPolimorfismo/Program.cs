@@ -1,4 +1,4 @@
-﻿using TrabalhoPolimorfismo;
+﻿using TrabPolimorfismo;
 
 Funcionario funcionario = new Funcionario(1010, "Funcionario", 1000);
 Secretario secretario = new Secretario(1020, "Secretario", 1500);
