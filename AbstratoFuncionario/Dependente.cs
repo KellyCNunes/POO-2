@@ -11,12 +11,16 @@ namespace AbstratoFuncionario
         public string Nome { get; set; }
         public int Idade { get; set; }
 
-        public Dependente(int codigo, string nome)
+        public Dependente(int codigo, string nome, int idade)
         {
             Codigo = codigo;
             Nome = nome;
-            Idade = Idade;
+            Idade = idade;
         }
         
+        public void Mostrar() 
+        {
+            Console.WriteLine("Código: " + Codigo + "\tNome: " + Nome + "\tIdade: " + Idade);
+        }       
     }
 }

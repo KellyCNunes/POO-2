@@ -14,7 +14,7 @@ namespace InterfaceAutenticavel
                 Console.WriteLine("Gerente autenticado!");
                 return true;
             }
-            return salse;
+            return false;
         }
     }
 }

@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Xml.Schema;
 
 namespace AbstratoFuncionario
 {
@@ -45,5 +46,20 @@ namespace AbstratoFuncionario
             }
             return folha;
         }
+
+        public void CalcularDependentesDepartamento()
+        {
+            //calcular dependentes por departamento para cada funcionario
+            for(int i = 0; i < VetF.Count; i++)
+            {
+                Funcionario f = VetF.ElementAt<Funcionario>(i);
+                f.CalcularTotaldependentes();
+                Console.WriteLine("Total de dependetes: " + f.CalcularTotaldependentes());
+            }
+
+            
+        }
+
+
     }
 }

@@ -22,3 +22,9 @@ d2.ListarFuncionarios();
 Console.WriteLine($"Total {d2.CalcularFolha(30):c}");
 //d2.Demitir(4);
 //d2.ListarFuncionarios();
+
+Dependente de1 = new Dependente (1, "Nataly", 12);
+a1.Adicionar(de1);
+Dependente de2 = new Dependente (2, "Marcus", 20);
+a2.Adicionar(de2);
+
