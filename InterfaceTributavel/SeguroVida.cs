@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace InterfaceTributavel
 {
-    public class SeguroVida
+    public class SeguroVida : Itributavel
     {
          public double CalculaTributos()
         {

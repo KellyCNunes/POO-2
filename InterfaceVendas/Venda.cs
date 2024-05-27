@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace InterfaceVendas
 {
-    public interface IVenda
+    public class Venda
     {
-        private DateTime Data { get; set; }
+        private int Data { get; set; }
     }
 }

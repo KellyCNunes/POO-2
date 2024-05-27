@@ -5,13 +5,16 @@ using System.Threading.Tasks;
 
 namespace InterfaceAutenticavel
 {
-    public class Diretor : Funcionario, InterfaceAutenticavel
+    public class Diretor : Funcionario, IAutenticavel
     {
-        if (Senha == senha)
+        public bool Autenticar (int senha)
         {
-           Console.WriteLine("Diretor autenticado!");
-           return true;
+            if (Senha == senha)
+            {
+                Console.WriteLine("Diretor autenticado!");
+                return true;
+            }
+            return false;
         }
-        return false;
     }
 }

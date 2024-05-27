@@ -7,14 +7,18 @@ namespace InterfaceAutenticavel
 {
     //a classe cliente IMPLEMENTA a interface IAUTENTICAVEL
 
-    public int senha { get; set; }
-    public class Cliente : InterfaceAutenticavel
+    public class Cliente : IAutenticavel
+    
     {
+        public int Senha { get; set; }
+        public bool Autenticar (int senha)
+        {
         if (Senha == senha)
         {
             Console.WriteLine("cliente autenticado!");
             return true;
         }
         return false;
+    }
     }
 }

@@ -8,7 +8,7 @@ namespace InterfaceVendas
     public class Cheque
     {
         private long Numero { get; set; }
-        private DateTime DataDeposito { get; set; }
+        private int DataDeposito { get; set; }
         private int Situacao { get; set; }
     }
 }
