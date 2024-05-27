@@ -12,7 +12,7 @@ namespace InterfaceAutenticavel
     {
         if (Senha == senha)
         {
-            Console,WriteLine("client autenticado!");
+            Console.WriteLine("cliente autenticado!");
             return true;
         }
         return false;
