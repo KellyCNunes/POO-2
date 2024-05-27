@@ -24,19 +24,19 @@ Console.WriteLine($"Total {d2.CalcularFolha(30):c}");
 
 Dependente de1 = new Dependente (1, "Nataly", 12);
 a1.Adicionar(de1);
-a1.Excluir(de1);
+//a1.Excluir(de1);
 a1.ListarDependente();
 Dependente de2 = new Dependente (2, "Marcus", 20);
 a2.Adicionar(de2);
-a2.Excluir(de2);
+//a2.Excluir(de2);
 a2.ListarDependente();
 Dependente de3 = new Dependente (1, "Kelly", 12);
 c1.Adicionar(de3);
-c1.Excluir(de3);
+//c1.Excluir(de3);
 c1.ListarDependente();
 Dependente de4 = new Dependente (1, "Henry", 12);
 c2.Adicionar(de4);
-c2.Excluir(de4);
+//c2.Excluir(de4);
 c2.ListarDependente();
 
 
