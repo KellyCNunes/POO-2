@@ -21,8 +21,7 @@ namespace HerancaCliente
         }
         public void Mostrar()
         {
-            Console.WriteLine("Código: " + codigo +
-            "\tNome: " + nome + "\tEndereço: "+ endereco);
+            Console.WriteLine("Código: " + codigo + "\tNome: " + nome + "\tEndereço: "+ endereco);
         }
         public int Codigo{
             get { return codigo;}

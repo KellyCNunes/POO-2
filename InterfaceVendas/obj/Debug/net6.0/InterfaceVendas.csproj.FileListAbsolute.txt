@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\bin\Debug\net6.0\InterfaceVendas.exe
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\bin\Debug\net6.0\InterfaceVendas.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\bin\Debug\net6.0\InterfaceVendas.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\bin\Debug\net6.0\InterfaceVendas.dll
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\bin\Debug\net6.0\InterfaceVendas.pdb
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\obj\Debug\net6.0\InterfaceVendas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\obj\Debug\net6.0\InterfaceVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\obj\Debug\net6.0\InterfaceVendas.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\obj\Debug\net6.0\InterfaceVendas.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\obj\Debug\net6.0\InterfaceVendas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\obj\Debug\net6.0\InterfaceVendas.dll
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\obj\Debug\net6.0\refint\InterfaceVendas.dll
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\obj\Debug\net6.0\InterfaceVendas.pdb
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\obj\Debug\net6.0\InterfaceVendas.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-2\InterfaceVendas\obj\Debug\net6.0\ref\InterfaceVendas.dll
