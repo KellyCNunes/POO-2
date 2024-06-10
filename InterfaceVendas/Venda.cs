@@ -12,27 +12,33 @@ namespace InterfaceVendas
 
         public List<ItemVenda> VItens {get; set;}
 
-        public Venda(int data, double total)
+        public Venda(int data)
         {
             Data = data;
-            Total = total;
+            Total = 0;
+            Itens = new List<ItemVenda>();
         }
         public void Mostrar()
             {
                 Console.WriteLine("Data: " + Data + "\tTotal: " + Total);
             }
 
-        public void AdicionarItem(ItemVenda item)
+         public void AdicionarItem(ItemVenda item)
         {
+            Itens.Add(item);
+            Total += item.Subtotal;
+        }
 
-            VItens.Add(item);
-        }
-        public void ItemVenda()
+        public void Mostrar()
         {
-            Console.WriteLine("\nListagem dos itens de venda: " + Total);
-            foreach (ItemVenda v in VItens)
-                v.Mostrar();
+            Console.WriteLine("Data: " + Data + "\tTotal: " + Total);
+            foreach (ItemVenda item in Itens)
+            {
+                item.Mostrar();
+            }
         }
+    }
+}
 
         public double total
         {
