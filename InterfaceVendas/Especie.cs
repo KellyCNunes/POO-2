@@ -26,6 +26,11 @@ namespace InterfaceVendas
             Console.WriteLine("Qauntia: " + quantia + "\tTroco: " +  troco);
         }
 
+        public override void ProcessarPagamento()
+        {
+            Console.WriteLine($"Pagamento em espécie processado. Valor: {Total}, Quantia recebida: {Quantia}, Troco: {Troco}");
+        }
+
         public double Quantia
         {
             get { return quantia; }
