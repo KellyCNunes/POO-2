@@ -23,6 +23,9 @@ namespace InterfaceVendas
         {
             Console.WriteLine("Data: " + data + "\tTotal: " + total);
         }
+
+        public abstract void ProcessarPagamento();
+        
         public int Data{
             get { return data;}
             set { data = value;}
