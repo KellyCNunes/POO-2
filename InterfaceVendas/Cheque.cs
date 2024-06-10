@@ -30,6 +30,11 @@ namespace InterfaceVendas
             Console.WriteLine("Numero: " + Numero + "\tData de Deposito: " +  DataDeposito + "\tSituacao: " + Situacao);
         }
 
+        public override void ProcessarPagamento()
+        {
+            Console.WriteLine($"Pagamento com cheque processado. Número: {Numero}, Data de Depósito: {DataDeposito}, Situação: {Situacao}");
+        }
+
         public long Numero
         {
             get { return numero; }
